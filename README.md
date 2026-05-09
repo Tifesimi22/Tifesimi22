@@ -24,8 +24,8 @@ When I'm not working with data, I enjoy content writing, baking and mentoring ot
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, Building a Public health related dashboard in Excel.]  
-- **Project B:** [Brief,  Creating an interactive Malaria centered dashboard in Power BI.]
+- **Project A:** [Building a Public health related dashboard in Excel.]  
+- **Project B:** [Creating an interactive Malaria centered dashboard in Power BI.]
 
 ## 🌱 Currently Learning 
 
