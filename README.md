@@ -17,7 +17,7 @@ I'm a data analyst passionate about transforming raw data into meaningful insigh
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help plan for the future.
 
-When I'm not working with data, I enjoy writing creating, baking and mentoring others. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy content writing, baking and mentoring others. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
